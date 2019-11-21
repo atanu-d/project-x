@@ -8,6 +8,8 @@ this is just for git checking purpose
 
 '''
 
+#new changes for the test..
+
 class Blog:
     def __init__(self, name):
         self.name = name

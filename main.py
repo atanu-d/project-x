@@ -2,6 +2,12 @@ import requests
 import time
 import os
 
+
+'''
+this is just for git checking purpose
+
+'''
+
 class Blog:
     def __init__(self, name):
         self.name = name
